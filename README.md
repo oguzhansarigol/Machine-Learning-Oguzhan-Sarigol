@@ -84,12 +84,9 @@ Projeyi çalıştırmak için aşağıdaki kütüphanelere ihtiyacınız olabili
 - `matplotlib`  
 - `scikit-learn`  
 
+---
 
-## Lisans  
 
-Bu proje, eğitim ve bireysel gelişim amaçlı hazırlanmıştır. Kullanım durumunda lütfen kaynak gösteriniz.  
-
----  
 3. İlgili veri setlerini kullanarak projeleri çalıştırabilir ve sonuçları inceleyebilirsiniz.  
 
 ### 4. **Lisans**  
