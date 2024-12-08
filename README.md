@@ -72,9 +72,8 @@ Aşağıda, projenize uygun bir **README.md** dosyası hazırlanmıştır:
 
 ---  
 
-# Python Project  
-
-Bu proje, Python programlama dili ile hazırlanmıştır ve çeşitli kütüphaneler kullanılarak geliştirilmiştir. Proje, veri analizi, makine öğrenmesi veya ilgili başka bir konu üzerine odaklanmaktadır.  
+## Python   
+Bu proje, Python programlama dili ile hazırlanmıştır ve çeşitli kütüphaneler kullanılarak geliştirilmiştir. Proje, veri analizi, makine öğrenmesi veya ilgili başka konular üzerine odaklanmaktadır.  
 
 ## Gerekli Kütüphaneler  
 
