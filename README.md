@@ -70,7 +70,7 @@ Merhaba! Bu repository, makine öğrenmesi ve veri bilimi projelerimi içerir. P
 
 ---  
 
-## Python   
+## 3. Python   
 Bu proje, Python programlama dili ile hazırlanmıştır ve çeşitli kütüphaneler kullanılarak geliştirilmiştir. Proje, veri analizi, makine öğrenmesi veya ilgili başka konular üzerine odaklanmaktadır.  
 
 ## Gerekli Kütüphaneler  
@@ -80,11 +80,9 @@ Projeyi çalıştırmak için aşağıdaki kütüphanelere ihtiyacınız olabili
 - `pandas`  
 - `matplotlib`  
 - `scikit-learn`  
+İlgili veri setlerini kullanarak projeleri çalıştırabilir ve sonuçları inceleyebilirsiniz.
 
 ---
-
-
-3. İlgili veri setlerini kullanarak projeleri çalıştırabilir ve sonuçları inceleyebilirsiniz.  
 
 ### 4. **Lisans**  
 Bu repository, eğitim ve bireysel gelişim amaçlı olarak hazırlanmıştır. İçeriğin kullanımı durumunda, lütfen kaynak gösteriniz. Kodların büyük bir bölümü Hasan Çağrı Güngör'ün Machine Learning derslerinden esinlenilerek oluşturulmuştur.
