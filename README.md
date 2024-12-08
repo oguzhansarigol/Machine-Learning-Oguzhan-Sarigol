@@ -68,12 +68,28 @@ Merhaba! Bu repository, makine öğrenmesi ve veri bilimi projelerimi içerir. P
 - **insurance.csv**  
 - **student_scores.csv**  
 
-### 3. **Nasıl Kullanılır?**  
-1. Projeler **Jupyter Notebook** veya **Python** ile çalıştırılabilir.  
-2. Gerekli Python kütüphanelerini yüklemek için:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
+Aşağıda, projenize uygun bir **README.md** dosyası hazırlanmıştır:  
+
+---  
+
+# Python Project  
+
+Bu proje, Python programlama dili ile hazırlanmıştır ve çeşitli kütüphaneler kullanılarak geliştirilmiştir. Proje, veri analizi, makine öğrenmesi veya ilgili başka bir konu üzerine odaklanmaktadır.  
+
+## Gerekli Kütüphaneler  
+
+Projeyi çalıştırmak için aşağıdaki kütüphanelere ihtiyacınız olabilir:  
+- `numpy`  
+- `pandas`  
+- `matplotlib`  
+- `scikit-learn`  
+
+
+## Lisans  
+
+Bu proje, eğitim ve bireysel gelişim amaçlı hazırlanmıştır. Kullanım durumunda lütfen kaynak gösteriniz.  
+
+---  
 3. İlgili veri setlerini kullanarak projeleri çalıştırabilir ve sonuçları inceleyebilirsiniz.  
 
 ### 4. **Lisans**  
