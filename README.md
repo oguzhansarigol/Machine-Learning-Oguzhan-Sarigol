@@ -68,8 +68,6 @@ Merhaba! Bu repository, makine öğrenmesi ve veri bilimi projelerimi içerir. P
 - **insurance.csv**  
 - **student_scores.csv**  
 
-Aşağıda, projenize uygun bir **README.md** dosyası hazırlanmıştır:  
-
 ---  
 
 ## Python   
