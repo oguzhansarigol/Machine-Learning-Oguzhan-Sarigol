@@ -1,8 +1,4 @@
-Aşağıda, bu projeler için hazırlayabileceğiniz bir **README.md** taslağı verilmiştir:  
-
----
-
-# Machine Learning and Data Science Projects  
+# Machine Learning and Data Science Projects 
 
 Merhaba! Bu repository, makine öğrenmesi ve veri bilimi projelerimi içerir. Projeler, çeşitli veri setleri ve algoritmalar kullanarak yapılan tahmin, analiz ve sınıflandırma çalışmalarını kapsamaktadır.  
 
